@@ -2,7 +2,7 @@
 $texto = $_POST['text'];
 $textoUp = strtoupper($texto);
 ?>
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
     <head>
         <meta charset="UTF-8">
@@ -20,7 +20,7 @@ $textoUp = strtoupper($texto);
         </form>
         <h2>SEU TEXTO UPPADO, PRONTO PARA SER COPIADO</h2>
         <textarea id="textuP" name="textuP" rows="5" cols="50">
-            <?php echo $textoUp; ?>
+            <?//php echo $textoUp; ?>
         </textarea><br>
     </body>
-</html>
+</html> -->
